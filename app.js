@@ -72,7 +72,7 @@ function calcStrength() {
       (hasNum || hasSym) &&
       passwordLength >= 6
     ) {
-      setIndicator("#ff0");
+      setIndicator("#ff0");a
     } else {
       setIndicator("#f00");
     }
