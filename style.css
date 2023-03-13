@@ -126,7 +126,7 @@ h1{
     height: 1.5rem;
     border-radius: 50%;
 }
-.generatorButton {
+.generateButton {
     width: 100%;
     padding: 1rem 0;
     background-color: var(--vb-violet);
